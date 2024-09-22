@@ -1,0 +1,2 @@
+# TextureSquish
+Squish your textures!
